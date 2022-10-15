@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(pic1.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  color: yellow;
+}
